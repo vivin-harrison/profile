@@ -1,20 +1,17 @@
 # S. Vivin Harrison — Portfolio
 
-A responsive single-page portfolio for S. Vivin Harrison.
+Updated portfolio based on the supplied CV/project information.
 
-## Run locally
-Open `index.html` in a browser, or use VS Code Live Server.
+## Included project work
+- Campus Hub
+- Blade Runner 2025 — Python / Pygame
+- Disaster Preparedness Quiz App — Flutter / Firebase
+- Food Analytics Database — DBMS / SQL
+- Reed Switch Security Alarm Circuit
 
-## GitHub Pages
-1. Create a GitHub repository.
-2. Upload `index.html`, `style.css`, and `script.js`.
-3. Go to Settings → Pages.
-4. Select the `main` branch and `/ (root)`.
-5. Save.
+## Education
+- CMR University — B.Tech CSE, 3rd year / 5th semester
+- New Horizon PU College — PCMC
+- Avishkar Academy — ICSE
 
-## Personal links
-GitHub: https://github.com/vivin-harrison
-LinkedIn: https://www.linkedin.com/in/vivin-harrison-1042072aa/
-Email: svivinharrison@gmail.com
-
-Replace/add project links as your actual repositories become available. The portfolio intentionally does not claim an internship or professional experience that has not been completed.
+The portfolio does not claim a completed internship or professional experience.
