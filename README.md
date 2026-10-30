@@ -17,4 +17,4 @@ GitHub: https://github.com/vivin-harrison
 LinkedIn: https://www.linkedin.com/in/vivin-harrison-1042072aa/
 Email: svivinharrison@gmail.com
 
-Replace/add project links as your actual repositories become available.
+Replace/add project links as your actual repositories become available. The portfolio intentionally does not claim an internship or professional experience that has not been completed.
